@@ -1,0 +1,10 @@
+D:\Development\Standlone\TMTimer\TMTimerUControl\bin\Debug\TMTimerUControl.dll
+D:\Development\Standlone\TMTimer\TMTimerUControl\bin\Debug\TMTimerUControl.pdb
+D:\Development\Standlone\TMTimer\TMTimerUControl\bin\Debug\TMTimerUControl.xml
+D:\Development\Standlone\TMTimer\TMTimerUControl\bin\Debug\MetroFramework.dll
+D:\Development\Standlone\TMTimer\TMTimerUControl\obj\Debug\TMTimerUControl.Resources.resources
+D:\Development\Standlone\TMTimer\TMTimerUControl\obj\Debug\TMTimerUControl.ucTimerControl.resources
+D:\Development\Standlone\TMTimer\TMTimerUControl\obj\Debug\TMTimerUControl.vbproj.GenerateResource.Cache
+D:\Development\Standlone\TMTimer\TMTimerUControl\obj\Debug\TMTimerUControl.dll
+D:\Development\Standlone\TMTimer\TMTimerUControl\obj\Debug\TMTimerUControl.xml
+D:\Development\Standlone\TMTimer\TMTimerUControl\obj\Debug\TMTimerUControl.pdb

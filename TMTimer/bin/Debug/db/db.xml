@@ -1,0 +1,123 @@
+<?xml version="1.0" standalone="yes"?>
+<TMDB>
+  <Segment>
+    <SegmentId>0</SegmentId>
+    <SegmentName>Testing (2-6 secs)</SegmentName>
+    <QualifyTime>2</QualifyTime>
+    <MidTime>4</MidTime>
+    <MaxTime>6</MaxTime>
+    <MinQualifyTime>2</MinQualifyTime>
+    <MaxQualifyTime>8</MaxQualifyTime>
+    <DefaultSpeakerName>Speaker Name</DefaultSpeakerName>
+  </Segment>
+  <Segment>
+    <SegmentId>1</SegmentId>
+    <SegmentName>Standard Speech (5-7 mins)</SegmentName>
+    <QualifyTime>300</QualifyTime>
+    <MidTime>360</MidTime>
+    <MaxTime>420</MaxTime>
+    <MinQualifyTime>270</MinQualifyTime>
+    <MaxQualifyTime>450</MaxQualifyTime>
+    <DefaultSpeakerName>Speaker Name</DefaultSpeakerName>
+  </Segment>
+  <Segment>
+    <SegmentId>2</SegmentId>
+    <SegmentName>Icebreak (4-6 mins)</SegmentName>
+    <QualifyTime>240</QualifyTime>
+    <MidTime>300</MidTime>
+    <MaxTime>360</MaxTime>
+    <MinQualifyTime>210</MinQualifyTime>
+    <MaxQualifyTime>390</MaxQualifyTime>
+    <DefaultSpeakerName>Speaker Name</DefaultSpeakerName>
+  </Segment>
+  <Segment>
+    <SegmentId>3</SegmentId>
+    <SegmentName>Evaluation (2-3 mins)</SegmentName>
+    <QualifyTime>120</QualifyTime>
+    <MidTime>150</MidTime>
+    <MaxTime>180</MaxTime>
+    <MinQualifyTime>90</MinQualifyTime>
+    <MaxQualifyTime>210</MaxQualifyTime>
+    <DefaultSpeakerName>Evaluator Name</DefaultSpeakerName>
+  </Segment>
+  <Segment>
+    <SegmentId>4</SegmentId>
+    <SegmentName>Table Topics (1-2 mins)</SegmentName>
+    <QualifyTime>60</QualifyTime>
+    <MidTime>90</MidTime>
+    <MaxTime>120</MaxTime>
+    <MinQualifyTime>60</MinQualifyTime>
+    <MaxQualifyTime>150</MaxQualifyTime>
+    <DefaultSpeakerName>Speaker Name</DefaultSpeakerName>
+  </Segment>
+  <Segment>
+    <SegmentId>20200411052444</SegmentId>
+    <SegmentName>Advance Speech (6-8 mins)</SegmentName>
+    <QualifyTime>360</QualifyTime>
+    <MidTime>420</MidTime>
+    <MaxTime>480</MaxTime>
+    <MinQualifyTime>330</MinQualifyTime>
+    <MaxQualifyTime>510</MaxQualifyTime>
+    <DefaultSpeakerName>Speaker Name</DefaultSpeakerName>
+  </Segment>
+  <Segment>
+    <SegmentId>20200411070758</SegmentId>
+    <SegmentName>Advance Speech (8-10 mins)</SegmentName>
+    <QualifyTime>480</QualifyTime>
+    <MidTime>540</MidTime>
+    <MaxTime>600</MaxTime>
+    <MinQualifyTime>450</MinQualifyTime>
+    <MaxQualifyTime>630</MaxQualifyTime>
+    <DefaultSpeakerName>Speaker Name</DefaultSpeakerName>
+  </Segment>
+  <Segment>
+    <SegmentId>20200411070834</SegmentId>
+    <SegmentName>Advance Speech (10-12 mins)</SegmentName>
+    <QualifyTime>600</QualifyTime>
+    <MidTime>660</MidTime>
+    <MaxTime>720</MaxTime>
+    <MinQualifyTime>570</MinQualifyTime>
+    <MaxQualifyTime>750</MaxQualifyTime>
+    <DefaultSpeakerName>Speaker Name</DefaultSpeakerName>
+  </Segment>
+  <Segment>
+    <SegmentId>20200411070835</SegmentId>
+    <SegmentName>Advance Speech (12-15 mins)</SegmentName>
+    <QualifyTime>720</QualifyTime>
+    <MidTime>840</MidTime>
+    <MaxTime>900</MaxTime>
+    <MinQualifyTime>690</MinQualifyTime>
+    <MaxQualifyTime>930</MaxQualifyTime>
+    <DefaultSpeakerName>Speaker Name</DefaultSpeakerName>
+  </Segment>
+  <Segment>
+    <SegmentId>20200411071023</SegmentId>
+    <SegmentName>Keynote Speech (18-22 mins)</SegmentName>
+    <QualifyTime>1080</QualifyTime>
+    <MidTime>1200</MidTime>
+    <MaxTime>1320</MaxTime>
+    <MinQualifyTime>1050</MinQualifyTime>
+    <MaxQualifyTime>1350</MaxQualifyTime>
+    <DefaultSpeakerName>Speaker Name</DefaultSpeakerName>
+  </Segment>
+  <Segment>
+    <SegmentId>20200411071121</SegmentId>
+    <SegmentName>Keynote Speech (25-30 mins)</SegmentName>
+    <QualifyTime>1500</QualifyTime>
+    <MidTime>1650</MidTime>
+    <MaxTime>1800</MaxTime>
+    <MinQualifyTime>1470</MinQualifyTime>
+    <MaxQualifyTime>1830</MaxQualifyTime>
+    <DefaultSpeakerName>Speaker Name</DefaultSpeakerName>
+  </Segment>
+  <Segment>
+    <SegmentId>20200611012820</SegmentId>
+    <SegmentName>Advance Speech (3-5 mins)</SegmentName>
+    <QualifyTime>180</QualifyTime>
+    <MidTime>240</MidTime>
+    <MaxTime>300</MaxTime>
+    <MinQualifyTime>150</MinQualifyTime>
+    <MaxQualifyTime>330</MaxQualifyTime>
+    <DefaultSpeakerName>Speaker Name</DefaultSpeakerName>
+  </Segment>
+</TMDB>
